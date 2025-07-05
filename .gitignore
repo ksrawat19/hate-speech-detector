@@ -1,0 +1,8 @@
+# Virtual environment
+venv/
+
+# VS Code editor settings
+.vscode/
+
+# Requirements files
+!requirements.txt
