@@ -1,8 +1,10 @@
 # Virtual environment
 venv/
 
-# VS Code editor settings
+# vscode, system fies
 .vscode/
+.DS_Store
+Thumbs.db
 
 # Requirements files
 !requirements.txt
